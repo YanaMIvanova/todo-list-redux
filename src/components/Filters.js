@@ -1,6 +1,6 @@
 import React from 'react'
 import FilterButton from '../containers/FilterButton'
-import { visibilityFilters } from '../constants/index'
+import { visibilityFilters } from '../constants'
 
 const Filters = () => (
     <p>

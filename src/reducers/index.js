@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux'
-import { visibilityFilters, actionTypes } from '../constants/index'
+import { visibilityFilters, actionTypes } from '../constants'
 import undoable, { includeAction } from 'redux-undo'
 const { SHOW_ALL } = visibilityFilters
 

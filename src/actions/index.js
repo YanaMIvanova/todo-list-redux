@@ -1,4 +1,4 @@
-import { actionTypes } from '../constants/index'
+import { actionTypes } from '../constants'
 
 let nextTodoId = 0
 
